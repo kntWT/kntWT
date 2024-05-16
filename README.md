@@ -19,7 +19,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,python,tensorflow,django,fastapi,mysql,postgresql,go,php,vite,docker,firebase,openapi,p5js,unity" />
+    <img src="https://skillicons.dev/icons?i=angular,python,tensorflow,django,fastapi,mysql,postgresql,go,php,vite,docker,firebase,java,p5js,unity" />
   </a>
 </p>
 
