@@ -2,7 +2,7 @@
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" > 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+kntWT;I'm+from+Japan;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Kento+Watanabe;I'm+from+Japan;)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kntWT&theme=synthwave)
 
