@@ -2,28 +2,12 @@
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" > 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Yuto+Sekiguchi;I'm+from+Japan;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+kntWT;I'm+from+Japan;)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kntWT&theme=synthwave)
 
 
 <hr>
-<!--Graph-->
-<br>
-<!--Skill And More Information--> 
-
-<div align="center">  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kntWT&show_icons=true&count_private=true&hide_border=true&theme=synthwave" alt="Bastian Dev github stats" /> 
-</div>
-  <br>
-<div align="center">  
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=kntWT&theme=synthwave&hide_border=true&border_radius=5" />
-    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=kntWT&theme=synthwave&row=2&column=4" />
-  </div>
-<hr>
-
-<img align='left' height='300' src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
-
 
 <br>
 <h1>Skills</h1>
@@ -60,7 +44,7 @@
 </p>
 
 <div align="right">
-  <a href="mailto:yuutosekiguchi@gmail.com" target="_blank">
+  <a href="mailto:kento.wata0628@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
