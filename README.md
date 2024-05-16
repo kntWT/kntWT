@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Yuto+Sekiguchi;I'm+from+Japan;)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi&theme=synthwave)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kntWT&theme=synthwave)
 
 
 <hr>
@@ -13,12 +13,12 @@
 <!--Skill And More Information--> 
 
 <div align="center">  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&show_icons=true&count_private=true&hide_border=true&theme=synthwave" alt="Bastian Dev github stats" /> 
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=kntWT&show_icons=true&count_private=true&hide_border=true&theme=synthwave" alt="Bastian Dev github stats" /> 
 </div>
   <br>
 <div align="center">  
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=synthwave&hide_border=true&border_radius=5" />
-    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=synthwave&row=2&column=4" />
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=kntWT&theme=synthwave&hide_border=true&border_radius=5" />
+    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=kntWT&theme=synthwave&row=2&column=4" />
   </div>
 <hr>
 
@@ -51,11 +51,11 @@
 
 <p align="center">
     
-<a href="https://github.com/YutoSekiguchi/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YutoSekiguchi">
+<a href="https://github.com/kntWT/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kntWT">
 </a>
-    <a href="https://github.com/YutoSekiguchi?tab=followers">
-        <img src="https://img.shields.io/github/followers/YutoSekiguchi?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/kntWT?tab=followers">
+        <img src="https://img.shields.io/github/followers/kntWT?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
 
